@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SkillCards>
+    <SkillCard desc="用于增加士气的辅助技能升级" icon="SkillCard/jns004.jpg" ident="1" name="士气系辅助技能书" type="1"/>
+    <SkillCard desc="用于治疗技能的升级" icon="SkillCard/jns003.jpg" ident="2" name="治疗系辅助技能书" type="1"/>
+    <SkillCard desc="用于增益技能的升级" icon="SkillCard/jns001.jpg" ident="3" name="增益系辅助技能书" type="1"/>
+    <SkillCard desc="用于减益技能的升级" icon="SkillCard/jns002.jpg" ident="4" name="减益系辅助技能书" type="1"/>
+    <SkillCard desc="用于攻击单个目标的普通技能的升级" icon="SkillCard/jns005.jpg" ident="5" name="单体物理系技能书" type="2"/>
+    <SkillCard desc="用于攻击直线目标的普通技能的升级" icon="SkillCard/jns006.jpg" ident="6" name="直线物理系技能书" type="2"/>
+    <SkillCard desc="用于攻击横排目标的普通技能的升级" icon="SkillCard/jns007.jpg" ident="7" name="横排物理系技能书" type="2"/>
+    <SkillCard desc="用于攻击群体目标的普通技能的升级" icon="SkillCard/jns008.jpg" ident="8" name="群体物理系技能书" type="2"/>
+    <SkillCard desc="用于攻击单个目标的战法技能的升级" icon="SkillCard/jns009.jpg" ident="9" name="单体战法系技能书" type="3"/>
+    <SkillCard desc="用于攻击直线目标的战法技能的升级" icon="SkillCard/jns010.jpg" ident="10" name="直线战法系技能书" type="3"/>
+    <SkillCard desc="用于攻击横排目标的战法技能的升级" icon="SkillCard/jns011.jpg" ident="11" name="横排战法系技能书" type="3"/>
+    <SkillCard desc="用于攻击群体目标的战法技能的升级" icon="SkillCard/jns012.jpg" ident="12" name="群体战法系技能书" type="3"/>
+    <SkillCard desc="用于攻击单个目标的计策技能的升级" icon="SkillCard/jns013.jpg" ident="13" name="单体计策系技能书" type="4"/>
+    <SkillCard desc="用于攻击直线目标的计策技能的升级" icon="SkillCard/jns014.jpg" ident="14" name="直线计策系技能书" type="4"/>
+    <SkillCard desc="用于攻击横排目标的计策技能的升级" icon="SkillCard/jns015.jpg" ident="15" name="横排计策系技能书" type="4"/>
+    <SkillCard desc="用于攻击群体目标的计策技能的升级" icon="SkillCard/jns016.jpg" ident="16" name="群体计策系技能书" type="4"/>
+    <SkillCard desc="可以用来升级任意技能" icon="SkillCard/jns017.jpg" ident="17" name="万能技能书" type="1"/>
+</SkillCards>
